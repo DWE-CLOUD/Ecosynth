@@ -1,0 +1,28 @@
+#filtered-download-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#filtered-download-img-container {
+    position: relative;
+    width: 25%;
+    margin: 10px;
+}
+
+.X-overlay {
+    position: absolute;
+    display: none;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.filtered-download-img {
+    width: 100%;
+}
+
+.filtered-download-img:hover {
+    opacity: 0.3;
+}

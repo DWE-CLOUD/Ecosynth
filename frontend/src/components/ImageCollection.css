@@ -1,0 +1,12 @@
+#image-collection-images-container {
+    display: flex;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+img {
+    width: 20%;
+    max-height: 20vw;
+    margin: 20px;
+}

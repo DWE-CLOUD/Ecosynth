@@ -1,0 +1,9 @@
+Button {
+    float: right;
+    width: 30%;
+}
+
+#home-button-container {
+    right: 10px;
+    top: 10px;
+}

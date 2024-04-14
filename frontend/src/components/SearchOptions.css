@@ -1,0 +1,47 @@
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+#search-options-form {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 50%;
+    height: 25%;
+    justify-content: space-around;
+}
+
+#search-options-form > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#select-containers {
+    display: flex;
+    flex-direction: column;
+}
+
+#select-containers > div {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+#select-containers > div > *{
+    width: 50%;
+    text-align: center;
+    padding: 5px;
+}
+
+#search-option-form > div > *{
+    width: 40%;
+    text-align: center;
+}
+
+button {
+    width: 30%;
+}
