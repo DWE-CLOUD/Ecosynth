@@ -1,5 +1,7 @@
 # Ecosynth: Unlocking the Power of Visual Data for Machine Learning
 
+![dwoscloud_Illustrate_a_futuristic_data_hub_that_seamlessly_aggr_7a54f921-e945-4def-88c7-403379e67f63](https://github.com/DWE-CLOUD/Ecosynth/assets/85799123/e2011f75-2377-4c65-a9e4-b321715820e2)
+
 ## Overview
 
 Ecosynth is a comprehensive platform that revolutionizes the way machine learning researchers and data scientists access and leverage visual data for their projects. By aggregating a vast library of high-quality datasets from various sources, preprocessing and curating the data, and providing seamless access and licensing management, Ecosynth empowers users to focus on their core innovations without the burden of data acquisition and preparation.
